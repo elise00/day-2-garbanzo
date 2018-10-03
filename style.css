@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(195, 248, 230);
+}
+
+h1, h3, h4 {
+    color: #6915bd;
+}
+
+h5 {
+    color: #8d29f0;
+}
+
+p {
+    color: rgb(50, 6, 92)
+}
+
+.large-text {
+    font-size: 1.25em;
+    font-style: italic;
+    text-align: center;
+}
+
+#main-heading {
+    text-decoration: underline;
+}
+
+img {
+    width: 50%;
+}
